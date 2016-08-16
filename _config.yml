@@ -7,23 +7,23 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'April Tuesday Shen'
+description: "Machine Learning Engineer - Lifetime Learner - Cat Aficionado"
 
 # Author's info
-author: 'Casper McFadden'
+author: 'April Tuesday Shen'
 # edit 'categories' in the front matter of every post to match this username
-nickname: casper
-bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Maine, USA'
-url: 'http://biomadeira.github.io/jasper/'
-image: 'assets/images/casper.png'
+nickname: april
+bio: 'Hi, I’m April. I’m an R&D engineer at a startup in London, an erstwhile Pacific Northwest resident, an alumna of Williams College, and a native of Ithaca, NY. I like cats, recursion, and a bunch of other things.'
+location: 'London, UK'
+url: 'http://apriltuesday.github.io'
+image: 'assets/images/profile.png'
 
-short_url: 'biomadeira.github.io/jasper/'
+short_url: apriltuesday.github.io
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: /
 
 # Permalinks
 permalink: /:title
