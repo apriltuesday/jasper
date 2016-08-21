@@ -7,7 +7,6 @@ tags: projects
 subclass: 'post tag-projects'
 categories: 'projects'
 ---
-
 A user-friendly GUI for working with distributed programs.
 - Summer 2010
 - [Poster](files/nebula2010.pdf)

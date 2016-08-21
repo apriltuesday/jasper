@@ -7,7 +7,6 @@ tags: projects
 subclass: 'post tag-projects'
 categories: 'projects'
 ---
-
 An animated short made for my undergraduate computer graphics class.
 - Fall 2011
 - [Video](files/cupcakery.mp4)
