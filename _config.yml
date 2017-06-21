@@ -4,7 +4,7 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 5
-paginate-path: '/blog/page:num'
+paginate-path: 'blog/page:num'
 language: 'en-uk'
 
 # Website info
@@ -28,8 +28,8 @@ baseurl: /
 
 # Permalinks
 permalink: blog/:year/:month/:day/:title
-# permalink: /author/:username
-# permalink: /tag/:tag
+# permalink: author/:username
+# permalink: tag/:tag
 
 
 # gems and other configs
